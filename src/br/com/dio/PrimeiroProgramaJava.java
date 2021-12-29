@@ -12,6 +12,8 @@ public class PrimeiroProgramaJava {
         System.out.println(livro);
         System.out.println(livro1);
 
+        // Comentário
+
        /*int a = 5;
        int b = 3;
        System.out.println("Hello world! " + (a+b));*/
