@@ -12,7 +12,7 @@ public class PrimeiroProgramaJava {
         System.out.println(livro);
         System.out.println(livro1);
 
-        // Comentário 2
+        // Comentário 1
 
        /*int a = 5;
        int b = 3;
